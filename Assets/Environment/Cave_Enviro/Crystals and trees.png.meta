@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: c0df2cd0ebd0db24eafc7da31db04dab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1602606809948550540
+    second: Crystals and trees_0
+  - first:
+      213: -1001373737902015722
+    second: Crystals and trees_1
+  - first:
+      213: 1435381955665454287
+    second: Crystals and trees_2
+  - first:
+      213: 2361264466666661127
+    second: Crystals and trees_3
+  - first:
+      213: -3821130898731763559
+    second: Crystals and trees_4
+  - first:
+      213: -8739863871900914950
+    second: Crystals and trees_5
+  - first:
+      213: 5074243942374623626
+    second: Crystals and trees_6
+  - first:
+      213: -2707446146823887217
+    second: Crystals and trees_7
+  - first:
+      213: 909230074655275471
+    second: Crystals and trees_8
+  - first:
+      213: -327020085017195975
+    second: Crystals and trees_9
+  - first:
+      213: 1334464347357065313
+    second: Crystals and trees_10
+  - first:
+      213: 1074180351628971396
+    second: Crystals and trees_11
+  - first:
+      213: 625625293816043604
+    second: Crystals and trees_12
+  - first:
+      213: 1175494472351462864
+    second: Crystals and trees_13
+  - first:
+      213: -2834629300624816030
+    second: Crystals and trees_14
+  - first:
+      213: 242128970885311845
+    second: Crystals and trees_15
+  - first:
+      213: -4693256801260953464
+    second: Crystals and trees_16
+  - first:
+      213: 7538149695036173111
+    second: Crystals and trees_17
+  - first:
+      213: -7638139494275394190
+    second: Crystals and trees_18
+  - first:
+      213: 5801608063686679204
+    second: Crystals and trees_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crystals and trees_0
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1713
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85fa95176a9d3610800000000000000
+      internalID: 1602606809948550540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystals and trees_1
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1707
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bf1f014e76a12f0800000000000000
+      internalID: -1001373737902015722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystals and trees_2
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1698
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4e170a8408be310800000000000000
+      internalID: 1435381955665454287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystals and trees_3
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1690
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7052b6c9585e4c020800000000000000
+      internalID: 2361264466666661127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystals and trees_4
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1690
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998f2dc51bd98fac0800000000000000
+      internalID: -3821130898731763559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystals and trees_5
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1427
+        width: 149
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa63124d14c5b680800000000000000
+      internalID: -8739863871900914950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystals and trees_6
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1422
+        width: 149
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89cae82bf55b6640800000000000000
+      internalID: 5074243942374623626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystals and trees_7
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1429
+        width: 149
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86ef0af2183d6ad0800000000000000
+      internalID: -2707446146823887217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystals and trees_8
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1417
+        width: 149
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9fde28feb3e9c00800000000000000
+      internalID: 909230074655275471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystals and trees_9
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1417
+        width: 149
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ac12e17f0367bf0800000000000000
+      internalID: -327020085017195975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystals and trees_10
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1125
+        width: 51
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16034ade048f48210800000000000000
+      internalID: 1334464347357065313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystals and trees_11
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1125
+        width: 51
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d8c8ba65148ee00800000000000000
+      internalID: 1074180351628971396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystals and trees_12
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1125
+        width: 51
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4589768d3eaaea800800000000000000
+      internalID: 625625293816043604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystals and trees_13
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1125
+        width: 51
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5b1fb9ef1305010800000000000000
+      internalID: 1175494472351462864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystals and trees_14
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 1125
+        width: 51
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268085a6baf59a8d0800000000000000
+      internalID: -2834629300624816030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystals and trees_15
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 19
+        width: 330
+        height: 943
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d237324073c5300800000000000000
+      internalID: 242128970885311845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystals and trees_16
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 8
+        width: 304
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880a7212ec33edeb0800000000000000
+      internalID: -4693256801260953464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystals and trees_17
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 61
+        width: 232
+        height: 917
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ba9547533ec9860800000000000000
+      internalID: 7538149695036173111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystals and trees_18
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 34
+        width: 305
+        height: 973
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27555da3990eff590800000000000000
+      internalID: -7638139494275394190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystals and trees_19
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 78
+        width: 180
+        height: 909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa1612bbc3738050800000000000000
+      internalID: 5801608063686679204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Crystals and trees_0: 1602606809948550540
+      Crystals and trees_1: -1001373737902015722
+      Crystals and trees_10: 1334464347357065313
+      Crystals and trees_11: 1074180351628971396
+      Crystals and trees_12: 625625293816043604
+      Crystals and trees_13: 1175494472351462864
+      Crystals and trees_14: -2834629300624816030
+      Crystals and trees_15: 242128970885311845
+      Crystals and trees_16: -4693256801260953464
+      Crystals and trees_17: 7538149695036173111
+      Crystals and trees_18: -7638139494275394190
+      Crystals and trees_19: 5801608063686679204
+      Crystals and trees_2: 1435381955665454287
+      Crystals and trees_3: 2361264466666661127
+      Crystals and trees_4: -3821130898731763559
+      Crystals and trees_5: -8739863871900914950
+      Crystals and trees_6: 5074243942374623626
+      Crystals and trees_7: -2707446146823887217
+      Crystals and trees_8: 909230074655275471
+      Crystals and trees_9: -327020085017195975
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
